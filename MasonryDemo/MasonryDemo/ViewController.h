@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController<UIScrollViewDelegate>
 
-
+@property (nonatomic ,strong) NSString* shuahuoyuedu ;
 @end
 

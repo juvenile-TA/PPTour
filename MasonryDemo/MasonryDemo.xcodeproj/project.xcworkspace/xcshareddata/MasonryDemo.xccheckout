@@ -10,6 +10,8 @@
 	<string>MasonryDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>288ABA3CC7967F3D01A8479C89D818341627E280</key>
+		<string>github.com:juvenile-TA/PPTour.git</string>
 		<key>99D504E277E02CFC0CCA2210C67D39D4352C290D</key>
 		<string>github.com:atbj505/MasonryDemo.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>MasonryDemo/MasonryDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>99D504E277E02CFC0CCA2210C67D39D4352C290D</key>
+		<key>288ABA3CC7967F3D01A8479C89D818341627E280</key>
 		<string>../../..</string>
+		<key>99D504E277E02CFC0CCA2210C67D39D4352C290D</key>
+		<string>../../../../MasonryDemo</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:atbj505/MasonryDemo.git</string>
+	<string>github.com:juvenile-TA/PPTour.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>99D504E277E02CFC0CCA2210C67D39D4352C290D</string>
+	<string>288ABA3CC7967F3D01A8479C89D818341627E280</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>99D504E277E02CFC0CCA2210C67D39D4352C290D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MasonryDemo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>288ABA3CC7967F3D01A8479C89D818341627E280</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PPTour</string>
 		</dict>
 	</array>
 </dict>
