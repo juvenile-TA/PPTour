@@ -9,7 +9,19 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController<UIScrollViewDelegate>
-
+//无意义     无意义无意义无意义无意义无意义
 @property (nonatomic ,strong) NSString* shuahuoyuedu ;
+@property (nonatomic ,strong) NSString* shuahuoyued ;
+@property (nonatomic ,strong) NSString* shuahuoyueu ;
+@property (nonatomic ,strong) NSString* shuahuoyudu ;
+@property (nonatomic ,strong) NSString* shuahuoyedu ;
+@property (nonatomic ,strong) NSString* shuahuouedu ;
+@property (nonatomic ,strong) NSString* shuahuyuedu ;
+@property (nonatomic ,strong) NSString* shuahoyuedu ;
+@property (nonatomic ,strong) NSString* shuauoyuedu ;
+@property (nonatomic ,strong) NSString* shuhuoyuedu ;
+@property (nonatomic ,strong) NSString* shahuoyuedu ;
+@property (nonatomic ,strong) NSString* suahuoyuedu ;
+@property (nonatomic ,strong) NSString* huahuoyuedu ;
 @end
 
