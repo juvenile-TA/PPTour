@@ -16,12 +16,7 @@
 @property (nonatomic ,strong) NSString* shuahuoyudu ;
 @property (nonatomic ,strong) NSString* shuahuoyedu ;
 @property (nonatomic ,strong) NSString* shuahuouedu ;
-@property (nonatomic ,strong) NSString* shuahuyuedu ;
-@property (nonatomic ,strong) NSString* shuahoyuedu ;
-@property (nonatomic ,strong) NSString* shuauoyuedu ;
-@property (nonatomic ,strong) NSString* shuhuoyuedu ;
-@property (nonatomic ,strong) NSString* shahuoyuedu ;
-@property (nonatomic ,strong) NSString* suahuoyuedu ;
+//sadfdsdsgsda
 @property (nonatomic ,strong) NSString* huahuoyuedu ;
 @end
 
