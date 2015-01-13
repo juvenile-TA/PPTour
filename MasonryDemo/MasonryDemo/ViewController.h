@@ -13,12 +13,13 @@
 @property (nonatomic ,strong) NSString* shuahuoyuedu ;
 @property (nonatomic ,strong) NSString* shuahuoyued ;
 @property (nonatomic ,strong) NSString* shuahuoyueu ;
-@property (nonatomic ,strong) NSString* shuahuoyudu ;
-@property (nonatomic ,strong) NSString* shuahuoyedu ;
-@property (nonatomic ,strong) NSString* shuahuouedu ;
 //sadfdsdsgsda
 @property (nonatomic ,strong) NSArray* aaaa ;
 @property (nonatomic ,strong) NSArray* aaab ;
 @property (nonatomic ,strong) NSArray* aaac ;
+// @@@@
+@property (nonatomic ,strong) NSString* aaa ;
+@property (nonatomic ,strong) NSString* aab ;
+@property (nonatomic ,strong) NSString* aac ;
 @end
 
