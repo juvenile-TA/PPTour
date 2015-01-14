@@ -21,5 +21,10 @@
 @property (nonatomic ,strong) NSString* aaa ;
 @property (nonatomic ,strong) NSString* aab ;
 @property (nonatomic ,strong) NSString* aac ;
+
+@property (nonatomic ,strong) NSMutableData* bbbb ;
+@property (nonatomic ,strong) NSMutableData* bbbc ;
+@property (nonatomic ,strong) NSMutableData* bbbd ;
+@property (nonatomic ,strong) NSMutableData* bbbe ;
 @end
 
