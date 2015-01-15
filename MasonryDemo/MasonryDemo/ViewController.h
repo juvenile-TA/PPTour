@@ -26,5 +26,11 @@
 @property (nonatomic ,strong) NSMutableData* bbbc ;
 @property (nonatomic ,strong) NSMutableData* bbbd ;
 @property (nonatomic ,strong) NSMutableData* bbbe ;
+
+@property (nonatomic ,strong) NSNumber* cccc ;
+@property (nonatomic ,strong) NSNumber* cccd ;
+@property (nonatomic ,strong) NSNumber* ccce ;
+@property (nonatomic ,strong) NSNumber* cccf ;
+
 @end
 
