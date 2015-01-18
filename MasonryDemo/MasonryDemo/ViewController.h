@@ -14,23 +14,7 @@
 @property (nonatomic ,strong) NSString* shuahuoyued ;
 @property (nonatomic ,strong) NSString* shuahuoyueu ;
 //sadfdsdsgsda
-@property (nonatomic ,strong) NSArray* aaaa ;
-@property (nonatomic ,strong) NSArray* aaab ;
-@property (nonatomic ,strong) NSArray* aaac ;
-// @@@@
-@property (nonatomic ,strong) NSString* aaa ;
-@property (nonatomic ,strong) NSString* aab ;
-@property (nonatomic ,strong) NSString* aac ;
 
-@property (nonatomic ,strong) NSMutableData* bbbb ;
-@property (nonatomic ,strong) NSMutableData* bbbc ;
-@property (nonatomic ,strong) NSMutableData* bbbd ;
-@property (nonatomic ,strong) NSMutableData* bbbe ;
-
-@property (nonatomic ,strong) NSNumber* cccc ;
-@property (nonatomic ,strong) NSNumber* cccd ;
-@property (nonatomic ,strong) NSNumber* ccce ;
-@property (nonatomic ,strong) NSNumber* cccf ;
 
 @end
 
