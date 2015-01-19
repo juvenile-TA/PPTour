@@ -14,7 +14,9 @@
 @property (nonatomic ,strong) NSString* shuahuoyued ;
 @property (nonatomic ,strong) NSString* shuahuoyueu ;
 //sadfdsdsgsda
-
+@property (nonatomic ,strong) NSString* shuahuoyuedu ;
+@property (nonatomic ,strong) NSString* shuahuoyued ;
+@property (nonatomic ,strong) NSString* shuahuoyueu ;
 
 @end
 
